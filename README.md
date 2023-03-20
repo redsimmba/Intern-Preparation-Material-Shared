@@ -5,6 +5,10 @@ Questions Sheet Link: https://docs.google.com/spreadsheets/d/1R3HYWPhvZffKRoeUhS
 
 and InterviewBit Tracks.
 
+DBMS: https://www.interviewbit.com/dbms-interview-questions/
+OS: https://www.interviewbit.com/operating-system-interview-questions/
+OOPS: https://www.interviewbit.com/oops-interview-questions/
+
 I began with it on : 4th April, 2022.
 
 I cracked an Intern on : 16th August,2022.
